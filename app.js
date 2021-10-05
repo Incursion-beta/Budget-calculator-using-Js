@@ -58,7 +58,6 @@ var budgetController = (function() {
             var newItem, ID;
             
             //[1 2 3 4 5], next ID = 6
-            //[1 2 4 6 8], next ID = 9
             // ID = last ID + 1
             
             // Create new ID
@@ -125,15 +124,6 @@ var budgetController = (function() {
         
         calculatePercentages: function() {
             
-            /*
-            a=20
-            b=10
-            c=40
-            income = 100
-            a=20/100=20%
-            b=10/100=10%
-            c=40/100=40%
-            */
             
             data.allItems.exp.forEach(function(cur) {
                cur.calcPercentage(data.totals.inc);
