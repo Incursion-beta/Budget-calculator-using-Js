@@ -1,4 +1,4 @@
-# Budget-calculator using just Js
+# Budget-calculator
 
 
 A budget calculator to measure monthly expenses and incomes.
