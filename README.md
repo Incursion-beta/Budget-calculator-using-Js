@@ -3,7 +3,7 @@
 
 A budget calculator to measure monthly expenses and incomes.
 
-A simple application calculating monthly expenses. Currently it's not saving it's state in local storage (which means, if you refresh it's gone), but can be used as a calculator if you have invoices for instance after a month and you want to see the places your money has gone. 🍿🍻
+A simple application calculating monthly expenses. Currently it's not saving it's state in local storage (which means, if you refresh it's gone), but can be used as a calculator if you have invoices for instance after a month and you want to see the places your money has gone🍿🍻.
 
 You can try it out [here](https://javpet.github.io/Budget-calculator/).
 
